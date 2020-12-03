@@ -1,0 +1,17 @@
+﻿Build started 9/21/2017 9:44:03 AM.
+     1>Project "C:\Users\LIAQAT EAGLE\Desktop\bgi\bgi.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\bgi.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         bgi.vcxproj -> C:\Users\LIAQAT EAGLE\Desktop\bgi\Debug\bgi.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\bgi.unsuccessfulbuild".
+         Touching "Debug\bgi.lastbuildstate".
+     1>Done Building Project "C:\Users\LIAQAT EAGLE\Desktop\bgi\bgi.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
